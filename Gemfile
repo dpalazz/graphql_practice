@@ -55,3 +55,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'graphiql-rails', '1.4.4', group: :development
+
+gem 'search_object', '1.2.0'
+gem 'search_object_graphql', '0.1'
